@@ -213,11 +213,13 @@ Button(onClick = onVolver) { Text("Volver") }
 
 ---
 ## Enlaces oficiales con la documentación de la que trata el ejercicio.
-[Tutorial general de Jetpack Compose](https://developer.android.com/develop/ui/compose/tutorial?hl=es-419)
-[El estado y Compose](https://developer.android.com/develop/ui/compose/state?hl=es-419)
-[Navegación en Compose](https://developer.android.com/develop/ui/compose/navigation?hl=es-419)
-[API Runtime de Compose](https://developer.android.com/reference/kotlin/androidx/compose/runtime/package-summary)
+- <a href="https://developer.android.com/develop/ui/compose/tutorial?hl=es-419" target="_blank">Tutorial general de Jetpack Compose</a>
+- <a href="https://developer.android.com/develop/ui/compose/state?hl=es-419" target="_blank">El estado y Compose</a>
+- <a href="https://developer.android.com/develop/ui/compose/navigation?hl=es-419" target="_blank">Navegación en Compose</a>
+- <a href="https://developer.android.com/reference/kotlin/androidx/compose/runtime/package-summary" target="_blank">API Runtime de Compose</a>
+
 ## Autor
 
-Desarrollado por [Xavier Valverde](https://github.com/Valveider-X)
+Desarrollado por <a href="https://github.com/Valveider-X" target="_blank">Xavier Valverde</a>
+
 
